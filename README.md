@@ -5,7 +5,7 @@ This repo contains the code and data of the following paper:
 *Dayiheng Liu, Jie Fu, Qian Qu, Jiancheng Lv*, arXiv 2019 [[arXiv]](https://arxiv.org/abs/1806.08097)
 
 # Overall
-<p align="center"><img width="70%" src="1.png"/></p> 
+<p align="center"><img width="60%" src="1.png"/></p> 
 
 We propose a new algorithmic framework, dubbed BFGAN, to achieve Lexically Constrained Sentence Generation. Speciﬁcally, we employ a backward generator and a forward generator to generate lexically constrained sentences together, and use a discriminator to guide the joint training of two generators by assigning them reward signals.
  
